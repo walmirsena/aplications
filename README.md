@@ -1,2 +1,2 @@
-# aplications
-This repository is for my training aplications.
+# rock-paper-scissor
+This repository is for my training game in JavaScript.
